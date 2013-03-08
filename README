@@ -1,0 +1,6 @@
+This is a sample iOS application development about horizontal swipe
+to change views.
+
+With the use of UIPageControl and UIScrollView, this is made possible.
+
+The application supports both portrait and landscape orientation.
