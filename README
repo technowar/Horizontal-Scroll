@@ -4,3 +4,9 @@ to change views.
 With the use of UIPageControl and UIScrollView, this is made possible.
 
 The application supports both portrait and landscape orientation.
+
+P.S.
+This code is messy, I know. If there are things needed to be changed,
+please do not hesitate to contact me. I am open to suggestions.
+
+Thank you!
